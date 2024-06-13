@@ -1,0 +1,25 @@
+.productContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0px 15px;
+    margin-top: 20px;
+}
+.newproducts{
+    text-align: center;
+    color: gray;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.itemContainer{
+  margin-bottom: 10px;
+}
+.itemContainer img{
+    width: 250px;
+    height: 300px;
+}
+.nams{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
